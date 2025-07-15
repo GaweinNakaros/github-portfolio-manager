@@ -1,0 +1,14 @@
+{
+  "name": "github-portfolio-manager",
+  "version": "1.0.0",
+  "description": "Professional GitHub Portfolio Management System",
+  "scripts": {
+    "audit": "python scripts/audit.py",
+    "transform": "python scripts/transform.py",
+    "deploy": "python scripts/deploy.py",
+    "setup": "pip install -r requirements.txt"
+  },
+  "keywords": ["github", "portfolio", "management", "automation"],
+  "author": "GaweinNakaros",
+  "license": "MIT"
+}

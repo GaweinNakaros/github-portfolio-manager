@@ -1,0 +1,151 @@
+{
+  "username": "GaweinNakaros",
+  "audit_date": "2025-07-14T23:34:22.117978",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "name": "Comision-20015",
+      "classification": "🎓 Académico",
+      "language": "HTML",
+      "private": false,
+      "stars": 1,
+      "updated": "2025-07-14",
+      "description": ""
+    },
+    {
+      "name": "github-portfolio-manager",
+      "classification": "🚀 Profesional",
+      "language": "N/A",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-07-15",
+      "description": " Professional GitHub Portfolio Management System | Sistema Profesional de GestiÃ³n de Portfolio GitHub - Automated auditing, classification, and transformation of repositories for career development | AuditorÃ­a automatizada, clasificaciÃ³n y transformaciÃ³n de repositorios para desarrollo profesional"
+    },
+    {
+      "name": "clase_git",
+      "classification": "🎓 Académico",
+      "language": "Python",
+      "private": true,
+      "stars": 0,
+      "updated": "2025-05-28",
+      "description": ""
+    },
+    {
+      "name": "grid_flex",
+      "classification": "📁 Sin clasificar",
+      "language": "CSS",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-05-23",
+      "description": ""
+    },
+    {
+      "name": "listado",
+      "classification": "📁 Sin clasificar",
+      "language": "HTML",
+      "private": true,
+      "stars": 0,
+      "updated": "2025-05-21",
+      "description": ""
+    },
+    {
+      "name": "Web-Copilot",
+      "classification": "🚀 Profesional",
+      "language": "HTML",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-05-19",
+      "description": ""
+    },
+    {
+      "name": "Script-cambio-de-nombre-imagenes",
+      "classification": "📁 Sin clasificar",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-03-05",
+      "description": ""
+    },
+    {
+      "name": "Obj_Mercado_Libre",
+      "classification": "📁 Sin clasificar",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-03-05",
+      "description": ""
+    },
+    {
+      "name": "Maestro-Gpt",
+      "classification": "📁 Sin clasificar",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-02-26",
+      "description": ""
+    },
+    {
+      "name": "Control-de-stock-web",
+      "classification": "🚀 Profesional",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-01-10",
+      "description": ""
+    },
+    {
+      "name": "plantilla_flask",
+      "classification": "📁 Sin clasificar",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-01-10",
+      "description": ""
+    },
+    {
+      "name": "Web_gq",
+      "classification": "🚀 Profesional",
+      "language": "HTML",
+      "private": false,
+      "stars": 0,
+      "updated": "2025-01-09",
+      "description": ""
+    },
+    {
+      "name": "Comision-24221",
+      "classification": "🎓 Académico",
+      "language": "Python",
+      "private": true,
+      "stars": 0,
+      "updated": "2025-01-09",
+      "description": ""
+    },
+    {
+      "name": "PFI---Talento-Tech",
+      "classification": "🎓 Académico",
+      "language": "Python",
+      "private": false,
+      "stars": 0,
+      "updated": "2024-10-15",
+      "description": ""
+    },
+    {
+      "name": "PHP",
+      "classification": "📁 Sin clasificar",
+      "language": "PHP",
+      "private": false,
+      "stars": 0,
+      "updated": "2022-08-11",
+      "description": ""
+    },
+    {
+      "name": "CODER",
+      "classification": "🎓 Académico",
+      "language": "CSS",
+      "private": false,
+      "stars": 0,
+      "updated": "2022-06-09",
+      "description": ""
+    }
+  ]
+}
