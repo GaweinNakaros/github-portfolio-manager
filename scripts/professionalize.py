@@ -6,7 +6,6 @@ Automatiza la profesionalización de repositorios académicos
 
 import json
 import os
-import shutil
 from pathlib import Path
 from rich.console import Console
 from rich.prompt import Prompt, Confirm

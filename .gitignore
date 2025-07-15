@@ -1,0 +1,68 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos temporales del proyecto
+*.tmp
+*.temp
+*_old.*
+*_backup.*
+*_test.*
+
+# Datos de auditoría (se regeneran)
+data/audits/*.json
+
+# Logs
+*.log
+logs/
+
+# Archivos de configuración local
+.env.local
+config.local.json
+
+# Outputs temporales
+output/
+temp/
